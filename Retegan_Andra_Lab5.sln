@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retegan_Andra_Lab5", "Retegan_Andra_Lab5\Retegan_Andra_Lab5.csproj", "{1C3BE288-9B5B-4A3B-A12A-04CAE9FCA25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "AutoLotModel\AutoLotModel.csproj", "{7152FBA3-FCB2-4922-AE9B-6850ECE8DB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3BE288-9B5B-4A3B-A12A-04CAE9FCA25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3BE288-9B5B-4A3B-A12A-04CAE9FCA25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3BE288-9B5B-4A3B-A12A-04CAE9FCA25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3BE288-9B5B-4A3B-A12A-04CAE9FCA25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7152FBA3-FCB2-4922-AE9B-6850ECE8DB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7152FBA3-FCB2-4922-AE9B-6850ECE8DB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7152FBA3-FCB2-4922-AE9B-6850ECE8DB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7152FBA3-FCB2-4922-AE9B-6850ECE8DB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8058B734-983B-44D7-83B0-2A20786F6BA6}
+	EndGlobalSection
+EndGlobal
